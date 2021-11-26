@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Task41</string>
+    <string name="enter_phone">Enter your phone </string>
+    <string name="show">show</string>
+    <string name="nothing_selected">\"onNothingSelected: \"</string>
+    <string name="phone_number">Phone Number: </string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">"Click OK to continue, or Cancel to stop: "</string>
+    <string name="Ok">Pressed OK</string>
+    <string name="Cancel">Pressed Cancel</string>
+    <string name="alert">Alert</string>
+    <string name="date_picker">date picker</string>
+    <string name="time_picker">time picker</string>
+    <string name="date">Date: </string>
+    <string name="time">Time: </string>
+    <string name="choose_datetime">Choose the date and time:</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string-array name="arrayspinner">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
